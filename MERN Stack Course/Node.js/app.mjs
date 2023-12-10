@@ -33,5 +33,5 @@
 // // method 4.2
 import {add,sub} from './math.mjs'
 
-console.log(add(5,5))
-console.log(sub(5,5))
+console.log(add(15,5))
+console.log(sub(5,4))
